@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.24d95fa1.chunk.css",
+    "main.js": "./static/js/main.afd1f862.chunk.js",
+    "main.js.map": "./static/js/main.afd1f862.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6ef368b3.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6ef368b3.js.map",
+    "static/js/2.1b1a3afc.chunk.js": "./static/js/2.1b1a3afc.chunk.js",
+    "static/js/2.1b1a3afc.chunk.js.map": "./static/js/2.1b1a3afc.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.24d95fa1.chunk.css.map": "./static/css/main.24d95fa1.chunk.css.map",
+    "static/js/2.1b1a3afc.chunk.js.LICENSE.txt": "./static/js/2.1b1a3afc.chunk.js.LICENSE.txt",
+    "static/media/Bitcoin-bro.09403689.svg": "./static/media/Bitcoin-bro.09403689.svg",
+    "static/media/LogoHeader.94e78b29.svg": "./static/media/LogoHeader.94e78b29.svg",
+    "static/media/alvo.8b18534f.svg": "./static/media/alvo.8b18534f.svg",
+    "static/media/mulher-fogute.e58a8152.svg": "./static/media/mulher-fogute.e58a8152.svg",
+    "static/media/video.1f8661db.mp4": "./static/media/video.1f8661db.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef368b3.js",
+    "static/js/2.1b1a3afc.chunk.js",
+    "static/css/main.24d95fa1.chunk.css",
+    "static/js/main.afd1f862.chunk.js"
+  ]
+}
